@@ -22,7 +22,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-                echo 'Deploying the project...'
+                echo 'Deploying the project now...'
                 // Add your deployment steps here, e.g., deploying to a server
             }
         }
