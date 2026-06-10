@@ -30,7 +30,7 @@ pipeline {
 
     post {
         success {
-            echo 'Build was successful!'
+            echo 'Build was successful..!'
             // Optionally, you can add notifications or other actions here
         }
         failure {
