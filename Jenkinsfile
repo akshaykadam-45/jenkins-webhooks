@@ -15,7 +15,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo 'Running testss now...'
+                echo 'Running test now...'
                 // Add your test steps here, e.g., unit tests
             }
         }
