@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building the project with webhookss....!'
+                echo 'Building the project with webhooksss....!'
                 // Add your build steps here, e.g., compiling code
             }
         }
